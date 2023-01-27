@@ -9,3 +9,5 @@ https://yandex.ru/dev/dialogs/alice/doc/about.html
 
 a lot help of Yandex Dialogs Models here:
 https://github.com/granstel/Yandex.Dialogs.Models
+and here:
+https://github.com/sameoldmadness/awesome-alice#c
